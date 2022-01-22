@@ -23,3 +23,8 @@
 .catagories-bg-shoes{
     background-color: #0000ff;
 }
+.card-animation:hover {
+    transform: scale(0.9);
+    transition: transform 0.5s ease-out;
+
+}
